@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				// TODO 自動生成されたメソッド・スタブ
 				TextView tv = (TextView)findViewById(R.id.textView1);
-				tv.setText("こんにちは");
+				tv.setText("サンプル");
 			}
 		});
 	}
